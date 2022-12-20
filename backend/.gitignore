@@ -3,4 +3,5 @@ node_modules/
 dist/
 app-engine.staging.yml
 app-engine.production.yml
+app-engine.production.yml.DO_NOT_DELETE
 
